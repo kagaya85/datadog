@@ -1,5 +1,9 @@
 # Kratos datadog plugin
 
+**NOTICE**: This repository has already be archived. Please check the links below
+
+* [metrics](https://github.com/go-kratos/kratos/tree/main/contrib/metrics/datadog)
+
 ## Requirements
 * install datadog agent https://docs.datadoghq.com/agent/
 * install datadog go library:
